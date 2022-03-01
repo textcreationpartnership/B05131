@@ -1,0 +1,460 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Remonstrance and protestation of all the good Protestants of this kingdom, against deposing their lawful soveraign K. James II.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05131</idno>
+            <idno type="STC">Wing R969</idno>
+            <idno type="STC">ESTC R234149</idno>
+            <idno type="EEBO-CITATION">49520967</idno>
+            <idno type="OCLC">ocm 49520967</idno>
+            <idno type="VID">174200</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05131)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174200)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2675:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Remonstrance and protestation of all the good Protestants of this kingdom, against deposing their lawful soveraign K. James II.</title>
+                  <author>Reid, J.</author>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by a lover of the king, [i.e. J. Reid?],</publisher>
+                  <pubPlace>[Edinburgh?] :</pubPlace>
+                  <date>MDCLXXXIX. [1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and publisher suggested by Wing.</note>
+                  <note>Imperfect: cropped with slight loss of print.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Great Britain --  History --  Revolution of 1688.</term>
+               <term>Great Britain --  Kings and rulers --  Succession.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174200:1"/>
+            <p>A REMONSTRANCE and PROTESTATION Of all the GOOD PROTESTANTS <hi>Of this Kingdom, againſt Depoſing their</hi> Lawful Soveraign K. JAMES II.</p>
+            <p>Printed by a Lover of the KING, MDCLXXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="remonstrance">
+            <pb facs="tcp:174200:2"/>
+            <pb facs="tcp:174200:2"/>
+            <head>A REMONSTRANCE and PROTESTATION Of all the GOOD PROTESTANTS Of this Kingdom, againſt Depoſing their <hi>Lawful Soveraign,</hi> K. JAMES II.</head>
+            <p>SInce it is evident to the whole World, that the preſent State of this Kingdom is a
+<hi>ſtate of Force;</hi> and that after all the pretence of <hi>Property,</hi> there is no
+<hi>Law</hi> in <hi>England</hi> but the <hi>Long Sword;</hi> &amp; that upon that Foundati<g ref="char:EOLhyphen"/>on Our preſent <hi>Architects</hi> are raiſing the Fabrick of their <hi>New Government:</hi> We who profeſs our ſelves to be <hi>True Proteſtants,</hi> and <hi>Tenderer</hi> of the
+<hi>Ho<g ref="char:EOLhyphen"/>nour</hi> of our Religion, then of our Lives; to think our ſelves obliged, <hi>in Conſcience,</hi> to vindicate our Reputation to Mankind, by declaring our
+<hi>Diſatisfaction</hi> to the preſent proceedings, and making a <hi>publick Proteſtation</hi> againſt the Authors of them.</p>
+            <p>It is true, The <hi>Fears</hi> and <hi>Jealouſies</hi> we have had of the coming in of
+<hi>Popery,</hi> by the Influence of ſome great Men of that Religion had upon <hi>His Majeſty;</hi> improved by the daily Reflections that were made, and the <hi>Ill Turn</hi> that was given to every Act of State, by ſome <hi>Malignant Spirits</hi> a<g ref="char:EOLhyphen"/>mong our ſelves; made us, we confeſs, very <hi>Cold and Indifferent</hi> in His Majeſties Defence, againſt a <hi>Prince of the Blood,</hi> of our Own Religion, whoſe Errand (as we were told) <hi>Was to preſerve our Religion and Laws, and the Juſt Succeſſion of the Royal Line.</hi> This only could have made us en<g ref="char:EOLhyphen"/>dure an Action we ſhould elſe have hated; preſuming our <hi>Kings leſs, ſhould have been His Gain; and our Yielding, our Victory:</hi> But ſince we behold, to our unſpeakable Grief, that our <hi>Condiſſention</hi> is Treacherouſly abuſed to private Ends; and that ſhew of our Diſloyalty, not made a Remedy to the Government, but a Ruin to our King, and an Infamy to our ſelves, to ſerve the turn of ſome Mens Avarice and Ambition; We think fit to Proteſt againſt ſuch Injuſtice, and to declare, <hi>We neither know, nor will ac<g ref="char:EOLhyphen"/>knowledge any other King, then</hi> JAMES <hi>the</hi> Second, <hi>who is our Lawful Sove<g ref="char:EOLhyphen"/>raign while He lives;</hi> and this Reſolution we will maintain upon all Oc<g ref="char:EOLhyphen"/>caſions, <hi>as becomes Loyal Subjects and good Proteſtants to do.</hi> Not ought this to appear a blind or unreaſonable Sacrifice on our part; ſince we can find neither Truth nor Juſtice in the Reaſon given for
+<hi>laying His Majeſty aſide:</hi> For the Kings Diſcretion, ſo much ſpoken of, was a plain Neceſſity,
+<pb facs="tcp:174200:3"/>and not a Crime: Had thoſe Forraigners that Conquer'd, but by leav<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuffered Him to ſtay a King at Home, He had never gone Abroad; bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if it were a Crime, it was <hi>againſt Himſelf,</hi> and not againſt the Kingdom<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> His ſins againſt the Nation we have daily expected to hear of:
+<hi>Thoſe black practices</hi> that brought the <hi>Prince of Orange</hi> hither to ſave us, and do hi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Princes Right:</hi> It is plain His Diſcretion, which is now made the fault t<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Dethrone Him, could be none of them; for that was not foreſeen b<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Prince, or thoſe that called him in: And we Challenge thoſe tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have Impeached Him to prove to us, as clearly as they made us believ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they could, that the <hi>Birth of the Prince of</hi> Wales <hi>is an Impoſture, that the Kin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> has made a League with</hi> France <hi>to cut off the</hi> Proteſtants <hi>of theſe Kingdoms; an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that his</hi> Brother <hi>and the Earl of</hi> Eſſex <hi>were murdered by his appointment.</hi> Had theſe vile things been proved upon Him, we had done with him forever and till then, common Honeſty would fly in our Faces if we ſhould De<g ref="char:EOLunhyphen"/>ſert Him: And though his Enemies have been able to deceive us, w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hope they ſhall not be able to Deſtroy us. If our <hi>Good Nature</hi> had ſuffer<g ref="char:EOLunhyphen"/>ed us to be eaſily abus'd, our Integrity will oblidge us as quickly an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> throughly to reſent it: And therefore ſince we cannot have their proofs <hi>We muſt and will have our King again for all this.</hi>
+            </p>
+            <p>We know the excuſe that is made for this profound <hi>ſilence,</hi> that the forbear to prove this black charge, <hi>out of pure tendeneſs to the King;</hi> but w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are not to learn at this time of the day, the great <hi>Tenderneſs of my Lor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Shro. Mord. Lov. <hi>Mr.</hi> Harb. Burn. <hi>and</hi> Ferg. towards his <hi>Majeſty;</hi> no mor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then the <hi>gratitude of my Lords</hi> Moug. Chur. Bark. <hi>and the Biſhop of</hi> Durh. <hi>o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Mercy of</hi> Kirk, <hi>or the Valour of</hi> Lene. <hi>or the Morals of all of them.</hi>
+            </p>
+            <p>But thoſe Gentlemen and Partners are too tender to prove thei<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> charge, why did they make it? and if they cannot do it, why do the proceed and refuſe to open his Letters ſent for an Accommodation<g ref="char:punc">▪</g> They have accuſed his Majeſty of <hi>Impoſture,</hi> they muſt prove it, or mak<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> themſelves the worſt of <hi>Impoſtors,</hi> which is an ill bottom for a <hi>Reformation</hi> to ſtand upon. It is impoſſible for Men of comon ſenſe to imagine, tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> three Kingdoms can be taken away from any Man, <hi>out of tenderneſs to him</hi> eſpecially if the reaſon of it be, <hi>that they ſhow no cauſe why they do it.</hi> It is a Myſtery to us, how they can be ſo very tender of his <hi>credit,</hi> &amp; at the ſame time, and in the ſame occaſion, ſo mighty careleſs of their Own. This has ſo ill a <hi>Face</hi> with us, that the whole ſeems the
+<hi>plot of a few Men,</hi> to ſerve themſelves of the Kings <hi>popery,</hi> and the Prince of
+<hi>Orange's Proteſtancy,</hi> to bring Honours and profits of the Government into their own Hands which is not preſerving our property, but making a property of Us.</p>
+            <p>It is this that compels us to ſay, and declare to the whole World, we
+<pb facs="tcp:174200:3"/>look upon our ſelves to be cheated, <hi>and our King to be Belyed and Betrayed <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t of all his Kingdoms.</hi> Nor can the <hi>Prince</hi> be blameleſs, if he yields to what
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey would give him for their own ſakes, ſince that were only to do his &amp; <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir buſineſs, and not the Kingdoms. It is not enough to ſay, <hi>it is put
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on him,</hi> for none can believe a few
+<hi>Naked Conventioners</hi> could force him at <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e head of his army to take <hi>Three Crowns</hi> from his <hi>Father, Brother, Siſter,</hi> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d <hi>Wife,</hi> againſt his own Will and Declaration. And that he ſhould <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it out of pure <hi>Self-denyal,</hi> is as incomprehenſible, as that he could do <hi>juſtly</hi> after what he has ſaid to the Sta<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and to us to the contrary. If <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>erefore he came for leſs then 3 Crowns, leſs then 3 Crowns ſhould ſa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sfie him: if nothing leſs will content him; our <hi>preſervation</hi> was not the
+<hi>
+                  <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>al Motive</hi> of his coming, and then the hazards he run upon this ſcore, <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nnot be juſtly placed to the account of Merit. The King of <hi>France</hi>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imſelf (for ought we know) would have turned
+<hi>Proteſtant</hi> for the Bar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>an, which had been at leaſt as great a Miracle, as any we have yet ſeen
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this Affair. And though what we have ſaid, were ſufficient to deter <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> good <hi>Proteſtants</hi> from taking any part in the Work now in hand, yet
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e cannot forbear expreſſing our Zeal againſt thoſe <hi>Evil practices,</hi> by let<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng our Countrey men know the great Miſchief that muſt inevitably
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>llow upon ſuch a Revolution, <hi>viz. Reproach, Violence, Taxes, Blood,</hi> and <hi>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>verty.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> We ſhall become the <hi>Reproach</hi> and <hi>Scorn</hi> of all Nations: It can<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot be otherwiſe when Subjects attempt to Judge and Deprive their So<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eraign, which is a great Contradiction, as well as Danger in Govern<g ref="char:EOLhyphen"/>ment: But to do it without being ſo much as
+<hi>once heard or ſummoned,</hi> is an <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>jury not to be acted towards the meaneſt of his Subjects: King <hi>Charles</hi>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e I. had fairer Quarter from <hi>Cromwel</hi> and <hi>Bradſhaw:</hi> They did not on <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> charge Him, but offered matter in Evidence to maintain the Charge:
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut this King, muſt be Guilty of what his Accuſers refuſe to prove, if <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et able to do it; and be Dethroned for Deſerting the Kingdom, though <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e could not held it.</hi> Nor do theſe Gentlemen ſtop here; they will <hi>change <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Crown,</hi> as well as the
+<hi>King;</hi> they will not be contented to lay him by,
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ut chooſe who ſhall follow; and by that make the Crown <hi>Elective,</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich for above
+600. years has been ſucceſſive: A thing, they ly under
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o neceſſity to do, but is the pure effect of their adventerous and flatter<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng Humour. Can this do leſs then render us Odious to the whole world,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen the King they lay aſide, <hi>never attempted ſo great an Alteration in any <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ranch of the conſtitution.</hi>
+            </p>
+            <p n="2">
+               <hi>2ly.</hi> We are inevitably in a ſtate of Force; for what is gotten by Force
+<pb facs="tcp:174200:4"/>muſt by Force be maintained; and let us flatter our ſelves what we w<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it is not a Vot of parliament, but the nature of the thing that will p<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>vail: They that make the change, muſt and will uſe Force for their o<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſecurity, whatever becomes of O<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs.</p>
+            <p n="3">
+               <hi>3dly.</hi> The charge of the Revolution, will be intollerable in a whil<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> We ſhall lay down a computation of one Years Expence for an Inſtan<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>To 70 Sail of Great and Small Ships of War in the <hi>Channel,</hi> and 14 Fire Ships and Tenders for one year,</cell>
+                     <cell>1400000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>To 8 Sail in the <hi>Straits,</hi> and 5 in <hi>America</hi> for the ſame time —</cell>
+                     <cell>0130000. <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>To Tranſporting and Maintaining 15000 Men to be employed in <hi>Ireland,</hi> for one year with <hi>Artillarly, &amp;c.</hi>
+                     </cell>
+                     <cell>500000. <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>To the Charge of ſending and keeping an Army in the <hi>Low Countries</hi> of 15000 Men for a year —</cell>
+                     <cell>0500000 <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>For an Army of 15000 Men in <hi>England</hi> yearly —</cell>
+                     <cell>0300000 <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="total">— The Total</cell>
+                     <cell role="total">2830000. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>To this muſt be added the <hi>Expence of Civil Gevernment at Home, Emba<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Intelligence, Secret Services</hi> abroad, <hi>Domeſtick</hi> or Family Expences, Char<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> upon the Revenue for Debs owing, or by Penſions to Perſons Aged, <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ceſſitous, or Meritorious, which will mount it to above <hi>Three Million,</hi> and that is more than one <hi>Third of the yearly value of the whole Kingdom.</hi> this muſt be added the <hi>Abatement</hi> that will neceſſarily follow, both in <hi>Cuſtoms and Exciſe,</hi> by reaſon of War and decay of Trade; which in Cuſtoms alone, cannot be leſs than one Third, and that comes to leaſt 400000 <abbr>
+                  <hi>l.</hi>
+               </abbr> a year.</p>
+            <p>Here is Poverty like an Armed Man: All Rents muſt fall at leaſt half. No Employments can be had in proportion to the Poor: T<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> means of Charity, as well as Hearts to give, will be wanting; the O<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>jects of it muſt extreamly increaſe, and that ſo very ſuddenly, tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will not be in our power to hinder it, if we have not that Peace, whi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> nothing elſe can give us, but the Reſtoration of our right Maſter.</p>
+            <p n="4">
+               <hi>4ly.</hi> And for Blood, can we hope to eſcape it in War? Firſt by Sea is not to be avoided; by Land, we ſhall invade the Territories or Co<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>queſts of <hi>France,</hi> if he in our Kings Quarrel, does not invade us firſt, S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>condly, their is blood with a vengeance, tho' we are not beaten, but we are beaten, there is Blood with Rebellion upon us, which will
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> end without <hi>Blood in peace,</hi> and almoſt an <hi>infinite forfeiture of Eſtates.</hi> Thir<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly, We are not aſſured we ſhall be long quiet within our ſelves, ma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:174200:4"/>ſtrong Factions already appearing; and we are leſs aſſured, that <hi>Scotland</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not be in Arms, and find ſomething to do in this Conjuncture, that
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a King <hi>to looſe and to chuſe as well as we.</hi> Fore <hi>Ireland</hi> we are aſſured, or
+<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ht to be, they who poſſeſs the Government, will loſe it at as dear a rate <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey can. Their <hi>All</hi> is at ſtake, and they are not without hopes by <hi>French Kings</hi> aſſiſtance, to recover all for their own, and will value
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mſelves to him and the World, by revenging our <hi>Deſpyſing</hi> and <hi>In<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce</hi> both to him and them. Nor can we think they will endure this in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ity to the firſt King of their Religion, ſince the
+<hi>Reformation;</hi> or ſuffer <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe to be ill uſed here, that have faithfully ſerved their King, without
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tting the ſame meaſure to ſome diſloyal perſons there. Otherwiſe, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ittle wit as we allow the <hi>Iriſh</hi> to have, they have enough to know
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t a <hi>Moſſacre,</hi> which we ſo much talk of, would be their own ruine, <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>l that if they carry it fair to the <hi>Engliſh,</hi> they will in a while gain
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe there to joyn them, and more than there too, for the Reſtoration <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir and our Lawful King. But be it as it will, whether we regard <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſelves, <hi>Scotland, Ireland,</hi> or <hi>Holland;</hi> War and Blood look us in the
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, and Poverty and Miſery muſt follow: Theſe are like to be the Conſequence of this <hi>Celebrated Change.</hi>
+            </p>
+            <p>Now whether our Dangers were ſo great, or our Fears ſo juſt, as to re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>te all this alteration for our Security, days of Affliction can only in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n us, if we will ſtill be deaf to thoſe juſt and peaceable Expedients,
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have been often propoſed to us. We ſhall cloſe our <hi>Remonſtrance,</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this caution to the preſent buſie Men, that ſince They cannot ho<g ref="char:EOLhyphen"/>ly lay Their King aſide, <hi>without entring into the Merits of the Cauſe,</hi> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch it is plain They wave; and in as much as They cannot juſtly ſay, <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as laid Himſelf aſide;</hi> by Deſerting Them, when his Deſertion, is <hi>co<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e and againſt His will,</hi> Let Them Repent of what They have done, let us all joyn, <hi>for the prevention of Civil, as well as Foreign bloody Wars,</hi> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tch Him Home to the Kingdoms of His <hi>Fathers,</hi> with greater Glory
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> He came firſt to Them; and it ſhall not leſſen It, that it be done with <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ter Security to our juſt Freedoms.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174200:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
